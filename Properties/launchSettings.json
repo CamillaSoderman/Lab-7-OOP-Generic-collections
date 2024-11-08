@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Lab 7 – OOP Generic collections": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
